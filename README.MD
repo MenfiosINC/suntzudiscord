@@ -1,4 +1,4 @@
-#Sun Tzu bot
+# Sun Tzu bot
 
 Random quotes from legendary chinese master Sun Tzu in your Discord server.
 
