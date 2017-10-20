@@ -6,9 +6,9 @@ Random quotes from legendary chinese master Sun Tzu in your Discord server.
 
 1. Add a secrets.json file with something like:
 
-	{
-		"client":"1234"
-	}
+		{
+			"client":"1234"
+		}
 
 2. Follow the Discord guides to set up an API key for your bot:
 
